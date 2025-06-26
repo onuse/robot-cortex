@@ -1,2 +1,2 @@
 # robot-cortex
-Brain for PiCar-X robot project
+Remote GPU brain for PiCar-X robot project
